@@ -4,6 +4,11 @@
 * JFormDesigner可视化编写，没有javafx可视化好用。
 * 检测不到的payload欢迎提交payload至issues。
 
+**V1.3**
+
+新增：ThinkPHP 6.x 日志泄漏。
+修复：ThinkPHP 3.x,5.x日志泄漏识别准确度。
+
 **V1.2**
 
 新增：刚爆出的 ThinkPHP 3.x 日志包含RCE，getshell，命令执行
